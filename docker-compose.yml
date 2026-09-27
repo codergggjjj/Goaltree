@@ -1,0 +1,22 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: goalflow-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD:-change-me-before-use}"
+      MYSQL_DATABASE: goalflow
+      MYSQL_USER: goalflow
+      MYSQL_PASSWORD: "${MYSQL_PASSWORD:-change-me-before-use}"
+    ports:
+      - "3307:3306"
+    volumes:
+      - goalflow-mysql-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost -ugoalflow -p$$MYSQL_PASSWORD"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  goalflow-mysql-data:

@@ -1,0 +1,14 @@
+{
+  "name": "goaltree-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Goaltree Windows desktop shell",
+  "main": "main.cjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "44.4.5"
+  }
+}

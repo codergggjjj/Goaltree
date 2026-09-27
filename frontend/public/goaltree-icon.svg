@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Goaltree">
+  <rect width="256" height="256" rx="30" fill="#29244b"/>
+  <path d="M48 48h180v180H48z" fill="#17142d"/>
+  <path d="M32 32h184v184H32z" fill="#fffdfb" stroke="#17142d" stroke-width="8"/>
+  <path d="M52 52h64v64H52z" fill="#6254d9"/>
+  <path d="M132 52h64v64h-64zM52 132h64v64H52z" fill="#74d8dc"/>
+  <path d="M132 132h64v64h-64z" fill="#f0bb55"/>
+</svg>

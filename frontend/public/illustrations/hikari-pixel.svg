@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">原创像素动漫助手小光</title>
+  <desc id="desc">蓝紫色短发、琥珀色眼睛的原创星图导航员，手持发光路线终端。</desc>
+  <rect width="400" height="440" fill="#242044"/>
+  <rect x="16" y="16" width="368" height="408" fill="#302a58"/>
+  <rect x="28" y="28" width="344" height="384" fill="#393166"/>
+  <rect x="36" y="36" width="328" height="368" fill="#332c5d"/>
+  <path d="M36 330h328v74H36z" fill="#282347"/>
+  <path d="M36 350h328v10H36zM36 382h328v6H36z" fill="#403872"/>
+  <path d="M48 340h72v8H48zM274 370h78v8h-78z" fill="#5a4c91"/>
+  <rect x="56" y="64" width="96" height="96" fill="#211e3e"/>
+  <path d="M72 80h56v8h16v48h-16v8H72v-8H64V88h8z" fill="#7066b6"/>
+  <path d="M80 88h40v8h8v32h-8v8H80z" fill="#f7e5a0"/>
+  <path d="M96 88h24v8h8v32h-16v8H96c18-12 24-28 24-48z" fill="#332c5d"/>
+  <rect x="48" y="48" width="8" height="8" fill="#f6ca69"/>
+  <rect x="172" y="50" width="6" height="6" fill="#8ae7ec"/>
+  <rect x="328" y="64" width="8" height="8" fill="#f6ca69"/>
+  <rect x="306" y="112" width="6" height="6" fill="#8ae7ec"/>
+  <rect x="64" y="202" width="6" height="6" fill="#8ae7ec"/>
+  <path d="M328 160h8v8h8v8h-8v8h-8v-8h-8v-8h8z" fill="#f6ca69"/>
+  <path d="M181 77h72v8h24v16h16v24h8v72h-8v32h-16v16h-96v-16h-24v-32h-8v-72h8v-24h16V85h8z" fill="#17152f"/>
+  <path d="M181 85h72v8h24v16h8v24h8v56h-16v24h-16v16h-88v-16h-16v-24h-8v-56h8v-24h16V93h8z" fill="#766bca"/>
+  <path d="M173 101h88v8h16v32h8v48h-16v16h-16v16h-72v-16h-16v-24h-8v-48h8v-24h8z" fill="#8b80db"/>
+  <path d="M197 109h56v8h16v24h8v40h-8v16h-16v16h-56v-8h-16v-16h-8v-56h8v-16h16z" fill="#f7d8c2"/>
+  <path d="M181 109h16v24h-8v16h-16v-24h8zM253 109h16v8h8v48h-8v-24h-8v-16h-8z" fill="#6c61bc"/>
+  <path d="M181 181h16v16h16v8h40v-8h16v16h-16v16h-72z" fill="#6c61bc"/>
+  <rect x="197" y="149" width="16" height="8" fill="#3c3150"/>
+  <rect x="245" y="149" width="16" height="8" fill="#3c3150"/>
+  <rect x="201" y="149" width="8" height="8" fill="#f2b94b"/>
+  <rect x="249" y="149" width="8" height="8" fill="#f2b94b"/>
+  <rect x="221" y="181" width="20" height="6" fill="#c37683"/>
+  <path d="M175 105h8v8h8v8h-8v8h-8v-8h-8v-8h8z" fill="#f4c45f"/>
+  <path d="M173 237h96v8h24v16h16v96h-16v16h-136v-16h-16v-96h16v-16h16z" fill="#17152f"/>
+  <path d="M173 245h96v8h16v16h16v88h-32v-72h-96v72h-24v-88h8v-16h16z" fill="#55509b"/>
+  <path d="M189 245h64v16h16v24h-96v-24h16z" fill="#eee8d9"/>
+  <path d="M205 245h32v16h16v16h-64v-16h16z" fill="#c9c0ec"/>
+  <path d="M197 285h48v72h-48z" fill="#302a58"/>
+  <path d="M213 285h16v72h-16z" fill="#f1c45e"/>
+  <path d="M141 269h32v88h-32zM285 269h24v88h-24z" fill="#4b478d"/>
+  <path d="M133 301h24v64h-24zM301 301h24v64h-24z" fill="#f7d8c2"/>
+  <path d="M165 317h112v56H165z" fill="#17152f"/>
+  <path d="M173 325h96v40h-96z" fill="#67d7dc"/>
+  <path d="M181 333h54v8h-54zM181 349h74v8h-74z" fill="#e8ffff"/>
+  <path d="M245 333h16v8h-8v8h-8z" fill="#f1c45e"/>
+  <path d="M157 365h128v16H157z" fill="#17152f"/>
+  <path d="M173 381h32v23h-40v-15h8zM237 381h32v8h8v15h-40z" fill="#1b1937"/>
+  <rect x="56" y="286" width="8" height="8" fill="#f6ca69"/>
+  <rect x="76" y="306" width="6" height="6" fill="#8ae7ec"/>
+  <path d="M82 246h8v8h8v8h-8v8h-8v-8h-8v-8h8z" fill="#8ae7ec"/>
+  <path d="M330 242h8v8h8v8h-8v8h-8v-8h-8v-8h8z" fill="#f6ca69"/>
+</svg>
